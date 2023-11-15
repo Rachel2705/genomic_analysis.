@@ -1,0 +1,5 @@
+track exampleTrack
+type bed 3
+shortLabel Your Custom Track
+longLabel Your Custom Track Description
+visibility hide
