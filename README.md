@@ -3,7 +3,7 @@
 
 This Python script utilizes the Biopython library to perform various analyses on genomic data retrieved from the National Center for Biotechnology Information (NCBI) using its E-utilities. The script covers tasks such as fetching genomic data, reverse complementing sequences, calculating GC skew, visualizing genomic features, and generating files compatible with the UCSC Genome Browser.
 
-![GC Skew Plot]([gc_skew_plot.png](https://github.com/Rachel2705/genomic_analysis./blob/main/gc_skew_plot.png))
+![GC Skew Plot](https://github.com/Rachel2705/genomic_analysis./blob/main/gc_skew_plot.png)
 
 ## Requirements
 - Python 3
